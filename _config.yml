@@ -2,7 +2,7 @@ name: An-Min Wu's personal website
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins:
-  - jekyll-feed
+ - jekyll-feed
 title: An-Min's blog
 description: Welcome to my blog
 author: An-Min Wu
